@@ -1,3 +1,4 @@
+
 🚀 DataScrape AI Platform
 DataScrape AI Platform is a cutting-edge, AI-powered web scraping solution, engineered to simplify, automate, and accelerate the data extraction process from websites. Built with a modern full-stack architecture using Next.js 14, TypeScript, TailwindCSS, and pnpm, this platform delivers blazing-fast performance, a responsive UI, and intelligent scraping capabilities.
 
@@ -24,6 +25,7 @@ Production-Ready Deployment:
 Optimized for seamless hosting on platforms like Vercel, Render, or any modern cloud hosting provider.
 
 🛠️ Tech Stack
+
 Technology	Purpose
 Next.js 14	React-based fullstack framework (SSR & static generation)
 TypeScript	Static type checking for improved code quality
@@ -32,10 +34,9 @@ PostCSS	CSS optimization and transformation
 pnpm	High-performance, disk space-efficient package manager
 React Hooks	Reusable logic for data fetching and UI interactions
 Headless UI	Unstyled, accessible UI components for better UX
+
 📂 Project Structure
-graphql
-Copy
-Edit
+
 graphql
 ├── app/         # Core application (pages, layouts, server components)
 ├── components/  # Reusable UI components (buttons, forms, layouts)
@@ -52,17 +53,13 @@ Node.js 18+
 
 pnpm installed globally
 
-Installation
-bash
-Copy
-Edit
+Installation:
+
 git clone https://github.com/kavyaa25/DataScrape-AI-Platform.git
 cd DataScrape-AI-Platform
 pnpm install
 Running Locally
-bash
-Copy
-Edit
+
 pnpm dev
 Visit http://localhost:3000 to view the application.
 
@@ -87,3 +84,4 @@ See the LICENSE file for more information.
 ✅ AI-Enhanced Efficiency
 ✅ Developer-Centric Codebase
 ✅ Scalable, Modular, and Production-Ready
+
